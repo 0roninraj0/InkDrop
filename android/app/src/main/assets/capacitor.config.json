@@ -1,0 +1,19 @@
+{
+	"appId": "com.inkdrop.reader",
+	"appName": "InkDrop",
+	"webDir": "dist",
+	"backgroundColor": "#000000",
+	"android": {
+		"backgroundColor": "#000000",
+		"allowMixedContent": false
+	},
+	"server": {
+		"androidScheme": "https"
+	},
+	"plugins": {
+		"SystemBars": {
+			"insetsHandling": "css",
+			"style": "DARK"
+		}
+	}
+}

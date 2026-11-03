@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">InkDrop</string>
+    <string name="title_activity_main">InkDrop</string>
+    <string name="package_name">com.inkdrop.reader</string>
+    <string name="custom_url_scheme">com.inkdrop.reader</string>
+</resources>
